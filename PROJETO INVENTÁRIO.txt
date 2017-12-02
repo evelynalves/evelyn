@@ -1,0 +1,6 @@
+PROJETO INVENTÁRIO 
+========================
+Pagina inicial
+1. Pagina de demonstração do projeto da turma CAI
+2. Botão Login direciona para o local onde o usuario logará, apenas para quem tiver acesso.
+
